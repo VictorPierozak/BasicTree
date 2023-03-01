@@ -23,3 +23,4 @@ All other tree and node classes inherit from these two, so there are:
 * BST tree represented by following classes:
   * BSTNode - inherit from basic_node<BSTNode, int>
   * BSTTree  - inherit from basic_tree<BSTNode, int>
+
